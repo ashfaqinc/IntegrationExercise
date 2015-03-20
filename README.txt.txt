@@ -5,3 +5,4 @@
 	d. git pull origin master
 2. Create war file as follows:
 	a. mvn clean compile war:war
+	b. The war file should be in the target directory
